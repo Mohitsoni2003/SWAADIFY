@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23517199824",
+    "project_id": "swaadify-324b2",
+    "storage_bucket": "swaadify-324b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23517199824:android:2767d5c16c14cdec49cdd5",
+        "android_client_info": {
+          "package_name": "com.example.swaadify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23517199824-uge57guaf6kbtt7ssahva03q4bnb5v0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvAW_bvgmUTfOCvPoQXr4YWednVGC1hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23517199824-uge57guaf6kbtt7ssahva03q4bnb5v0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
